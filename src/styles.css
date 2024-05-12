@@ -1,0 +1,22 @@
+header {
+    background-color: purple;
+    padding: 3em;
+    align-items: right;
+
+}
+
+header nav {
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Align items to the right */
+  }
+  
+header nav button{
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue background color */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    margin-right: 10px; /* Add margin between buttons */
+  
+}
