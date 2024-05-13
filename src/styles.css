@@ -20,3 +20,14 @@ header nav button{
     margin-right: 10px; /* Add margin between buttons */
   
 }
+
+#content {
+    text-align: center; /* Center text inside content */
+    margin: 10px auto;
+    background-color: yellowgreen;
+    width: 75%;
+    height: 10em;
+    border-radius: 1em;
+    padding: 1em;
+
+}
