@@ -1,7 +1,7 @@
 import "./styles.css";
-import loadHome from "./home.js"
-import loadStory from "./story.js"
-import loadMenu from "./menu.js"
+import { loadHome } from "./home.js"
+import { loadStory } from "./story.js"
+import { loadMenu } from "./menu.js"
 
 
 
